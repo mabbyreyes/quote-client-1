@@ -2,6 +2,7 @@ package edu.cnm.deepdive.quoteclient.service;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
+import com.google.gson.internal.GsonBuildConfig;
 import edu.cnm.deepdive.quoteclient.BuildConfig;
 import edu.cnm.deepdive.quoteclient.model.Quote;
 import io.reactivex.Single;
